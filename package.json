@@ -11,7 +11,7 @@
   "author": "John Serrano <jandreys15@gmail.com> (https://twitter.com/Jandrey15)",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.15.28",
+    "gatsby": "^4.25.7",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
